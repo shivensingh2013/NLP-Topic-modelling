@@ -1,4 +1,4 @@
-# topic_modelling using Word2Vec and Doc2Vec
+# Topic Modelling using Word2Vec and Doc2Vec
 an algorithm using word embeddings to extract major themes and subthemes in the comments.
 
 Build Date: 09/11/2019
